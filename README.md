@@ -1,3 +1,3 @@
 # littleLawsLibrary
 
-testing
+test
